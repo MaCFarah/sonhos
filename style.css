@@ -39,7 +39,7 @@ body{
 }
 .Apresentação {
     background-image: linear-gradient(#d876db, #80a8cb);
-    color: white;
+    color: rgb(82, 91, 86);
     display: flex;
     justify-content: center;
     align-items: center;
